@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-labs-space-mdx",
+    "path": "/Labs/space/",
+    "result": {"pageContext":{"frontmatter":{"description":"Labs / Space","title":"Labs / Space"},"relativePagePath":"/Labs/space.mdx","titleType":"page","MdxNode":{"id":"8ce14fed-bde6-54de-a373-76d46a5316a0","children":[],"parent":"2d0e6e5a-fd3c-5666-935a-3355043b4225","internal":{"content":"","type":"Mdx","contentDigest":"4de4d94bf993e270098022720d80f2e4","owner":"gatsby-plugin-mdx","counter":701},"frontmatter":{"description":"Labs / Space","title":"Labs / Space"},"exports":{},"rawBody":"","fileAbsolutePath":"C:/Users/905693897/github-doug/Turbo-1-Day-Partner-Workshop/src/pages/Labs/space.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
