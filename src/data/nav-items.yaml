@@ -3,7 +3,7 @@
     - path: /SalesEnablement/sales
 - title: Technical Labs
   pages:
-    - title: Introduction
+    - title: Introduction - ARM
       path: /Labs/Introduction
     - title: Lab Environment
       path: /Labs/env
@@ -15,5 +15,23 @@
       path: /Labs/Lab3
     - title: Lab 4 - Automating Actions
       path: /Labs/Lab4
-    - title: Summary
+    - title: Summary - ARM
       path: /Labs/Summary
+    - title: 
+      path: /Labs/space
+    - title: Introduction FinOps
+      path: /Labs/Introduction-finops
+    - title: Lab Environment
+      path: /Labs/env-finops
+    - title: Lab 1 - Visualizing Cloud
+      path: /Labs/Lab1-finops      
+    - title: Lab 2 - Savings Recommendations 
+      path: /Labs/Lab2-finops
+    - title: Lab 3 - Rightsizing Compute
+      path: /Labs/Lab3-finops
+    - title: Lab 4 - Optimizing Storage
+      path: /Labs/Lab4-finops
+    - title: Lab 5 - Cloud Discounts
+      path: /Labs/Lab5-finops
+    - title: Summary - FinOps
+      path: /Labs/Summary-finops
